@@ -29,7 +29,3 @@ module.exports = {
   Tag,
   ProductTag,
 };
-
-
-
-// git push this (remove this comment lol)
